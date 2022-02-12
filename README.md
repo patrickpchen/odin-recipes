@@ -1,0 +1,1 @@
+This is a website that displays multiple recipes. The project is meant to be a coding exercise, through which I demonstrate various HTML techniques.
